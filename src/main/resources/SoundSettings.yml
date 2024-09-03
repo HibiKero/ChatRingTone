@@ -1,0 +1,11 @@
+#该文件是负责将铃声参数转为中文名称,购买时展示的物品，以及他下面的描述
+#Block参数需要对照此链接进行编写https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+
+Defa:
+  Name: "默认铃声"
+  Block: "GRASS_BLOCK"
+  Description: "这是默认铃声，他只会咚的一下"
+BeaconAct:
+  Name: "信标发射"
+  Block: "BEACON"
+  Description: "嗡嗡嗡"
