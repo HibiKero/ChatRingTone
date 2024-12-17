@@ -50,7 +50,7 @@ public class PurchaseClickListener {
         fillPurchaseMenu(player, inventory, falseAttributes, currentPage);
     }
 
-    public static v
+
 
 }
 
